@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Web 3.0 project<br>🤝 I’m looking for help with Face Detection Data set<br>🌱 I’m currently learning Ai and Robotics<br>⚡ The first computer virus, "Creeper" (1971), displayed the <br>      message "I’m the creeper, catch me if you can!" and <br>      spread between mainframes. To stop it, the first <br>      antivirus program, "Reaper", was created, marking the <br>      first digital battle!
+
+🔭 **Currently working on:** Web3.0  
+🤖 **Exploring:** AI, Robotics & Intelligent Systems  
+🌱 **Currently learning:** Machine Learning, Deep Learning & Robotics  
+💡 **Interested in:** AI-powered automation, computer vision, Web3 & emerging technologies  
+🚀 **Goal:** Building innovative projects that combine **AI + Robotics + Software** to solve real-world problems  
+
+⚡ **Fun Tech Fact:** The first computer virus, *Creeper (1971)*, displayed the message *“I’m the creeper, catch me if you can!”* and spread between mainframe computers. **Reaper** was later created to detect and remove it — often considered the beginning of the antivirus era. 🦠💻
+
+💭 **Always curious. Always building. Always learning.**
 
 
 ## 🌐 Socials:
